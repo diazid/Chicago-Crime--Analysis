@@ -77,3 +77,12 @@ As we can see, the top 5 crimes are mostly same on AM and PM rush hour, but the 
 Also, we can note that `MOTOR VEHICLE THEFT` is not in the top 5 crimes on AM and PM rush hour. Not even in the whole dataset.
 
 ---
+
+## Tableau Visualization
+
+![png](/img/Main%20Chicago%20Crimes.png)
+
+You will find the public dashboard at this [Link](https://public.tableau.com/app/profile/israel.diaz/viz/ChicagoCrimeReport_16814516717520/MainChicagoCrimes)
+
+
+
